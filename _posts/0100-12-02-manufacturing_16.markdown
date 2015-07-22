@@ -3,7 +3,7 @@ layout:
 title:
 ---
 
-## ORDENES DE PRODUCCION/PEDIDOS DE VENTA
+## ORDENES DE PRODUCCION
 
 La fecha programada, la cantidad del producto, el nombre y las localizaciones por defecto son
 automáticamente completadas cuando la orden se abre por primera vez.
