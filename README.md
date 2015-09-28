@@ -9,7 +9,7 @@ This presentation has been written in [HTML5](http://www.w3.org/TR/html5/) and
 [Markdown](http://daringfireball.net/projects/markdown/) using
 [Jekyll](http://jekyllrb.com/) and
 [deck.js](http://imakewebthings.com/deck.js/),
-to view the presentation online go to http://antespi.github.io/odoo-apache-inverse-proxy
+to view the presentation online go to http://antiun.github.io/odoo-produccion-manual
 
 
 ### History
